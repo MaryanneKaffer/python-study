@@ -1,7 +1,7 @@
-print("Bem-Vindo à Loja da Maryanne Kaffer")
+print("Bem-Vindo à Lojinha da Maryanne Kaffer")
 
 # Recebendo os valores do pedido e a quantidade de parcelas
-valorDoPedido = float(input("Entre com o valor do pedido: "))
+valorDoPedido = float(input("Entre com o valor do pedido: R$ "))
 quantidadeParcelas = int(input("Entre com a quantidade de parcelas: "))
 
 # Definindo o valor dos juros de acordo com a quantidade de parcelas
